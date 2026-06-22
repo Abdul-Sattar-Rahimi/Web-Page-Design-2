@@ -4,7 +4,7 @@
 دانشجو: عبدالستار رحیمی
 
 خروجی پروژه:
--https://abdul-sattar-rahimi.github.io/Web-Page-Design-2/
+https://abdul-sattar-rahimi.github.io/Web-Page-Design-2/
 
 ## منابع بوت‌استرپ استفاده‌شده در این پروژه
 
